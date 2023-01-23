@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "732626963942",
+    "project_id": "motocourier-8a989",
+    "storage_bucket": "motocourier-8a989.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732626963942:android:56db3b0c04b12eaacc9a27",
+        "android_client_info": {
+          "package_name": "app.fazilkilic.motocourier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "732626963942-ciordb443sn9u65t2ibln4kv8j590i5k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxPMeGRJeeKQ4oRJ993dIkTB_9hqEwUF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "732626963942-ciordb443sn9u65t2ibln4kv8j590i5k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "732626963942-fchjmqh3htrg5a4cs7pm52d47tj441bi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "app.fazilkilic.motocourier"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
